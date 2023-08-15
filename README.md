@@ -1,5 +1,7 @@
 # Solar-Power-Datasets-and-Resources
 
+**Raw Excel data can be accessed in the Data Folder**
+
 Here are some open-source datasets related to solar energy along with their links:
 
 - **National Renewable Energy Laboratory (NREL) Solar Radiation Data**: This dataset includes solar radiation and related climatic data for locations in the United States and its territories. The data is collected by NREL and is available for download at https://data.nrel.gov/search-page/Solar.
