@@ -24,12 +24,12 @@ Here are some open-source datasets related to solar energy along with their link
 
 
 ## Datasets:
-- [Kaggle Solar Power Generation Data](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?resource=download&select=Plant_1_Generation_Data.csv)
-- [Kaggle Solar Power Plant EDA and Output Prediction](https://www.kaggle.com/code/shumaylasmawi/solar-power-plant-eda-and-output-prediction)
-- [Photovoltaic system thermography](https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermography)
-- [Photovoltaic system thermal inspection](https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermal-inspection)
-- [NIST Campus Photovoltaic (PV) Arrays and Weather Station Data Sets](https://catalog.data.gov/dataset/nist-campus-photovoltaic-pv-arrays-and-weather-station-data-sets-05b4d)
-- [Photovoltaic (PV) Solar Panel Energy Generation data](https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data)
+- [**Kaggle Solar Power Generation Data**](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?resource=download&select=Plant_1_Generation_Data.csv)
+- [**Kaggle Solar Power Plant EDA and Output Prediction**](https://www.kaggle.com/code/shumaylasmawi/solar-power-plant-eda-and-output-prediction)
+- [**Photovoltaic system thermography**](https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermography)
+- [**Photovoltaic system thermal inspection**](https://www.kaggle.com/datasets/marcosgabriel/photovoltaic-system-thermal-inspection)
+- [**NIST Campus Photovoltaic (PV) Arrays and Weather Station Data Sets**](https://catalog.data.gov/dataset/nist-campus-photovoltaic-pv-arrays-and-weather-station-data-sets-05b4d)
+- [**Photovoltaic (PV) Solar Panel Energy Generation data**](https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data)
 
 ## Resources
 
